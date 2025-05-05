@@ -22,7 +22,6 @@ Each project has:
 
 ## 📈 Progress
 **Completed**: 1/100  
-<img src="https://geps.dev/progress/1" alt="Progress" width="400">
 ![Progress](https://geps.dev/progress/1?title=Progress)
 
 
