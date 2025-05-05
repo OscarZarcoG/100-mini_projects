@@ -8,6 +8,7 @@ Welcome to my **100 Mini Projects Challenge**! This repository documents my jour
 - **Build consistency**: Complete projects regularly
 
 
+
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -16,13 +17,18 @@ Welcome to my **100 Mini Projects Challenge**! This repository documents my jour
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ## 📈 Progress
-**Current Status**: 0/100 projects completed  
-![Progress](https://progress-bar.dev/0/?title=Progress)
+**Current Status**: 1/100 projects completed  
+![Progress](https://progress-bar.dev/1/?title=Progress)
 
 ## 🏆 Projects
-1. [1-Age_calculator](#)
-2. [2-Basic_Background_Generator](#)
+1. [1. Age Calculator](https://github.com/OscarZarcoG/100-mini_projects/tree/main/1-Age_calculator) - Calculate age from birth date
+2. [2. Basic Background Generator](#) - *Coming soon*
 
+## 🤝 Contribution
+Suggestions welcome! Open an issue to:
+- Propose project ideas
+- Report bugs
+- Share improvements
 
 ## 📜 License
 MIT © [OSCZ]
