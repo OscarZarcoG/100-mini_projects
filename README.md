@@ -7,28 +7,36 @@ Welcome to my **100 Mini Projects Challenge**! This repository documents my jour
 - **Diversify**: Explore different tech stacks and problem domains
 - **Build consistency**: Complete projects regularly
 
+## 🗂️ Project Structure
+Each project has:
+- Dedicated folder with implementation files
+- Detailed `README.md` with:
+  - Project overview
+  - Tech stack
+  - Setup instructions
+  - Key learnings
 
-
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+## � Current Projects
+1. [🧮 Age Calculator](/1-Age_calculator/README.md) - JS/TS comparison
+2. [🎨 Background Generator](#) - *Coming soon*
 
 ## 📈 Progress
-**Current Status**: 1/100 projects completed  
-![Progress](https://progress-bar.dev/1/?title=Progress)
+**Completed**: 1/100  
+![Progress](https://progress-bar.dev/1/?width=400&title=Progress)
 
-## 🏆 Projects
-1. [1. Age Calculator](https://github.com/OscarZarcoG/100-mini_projects/tree/main/1-Age_calculator) - Calculate age from birth date
-2. [2. Basic Background Generator](#) - *Coming soon*
+## 🛠️ Global Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-## 🤝 Contribution
-Suggestions welcome! Open an issue to:
-- Propose project ideas
-- Report bugs
-- Share improvements
+## 🤝 How to Contribute
+1. Fork the repository
+2. Suggest improvements via Issues
+3. Submit Pull Requests for:
+   - New project ideas
+   - Code optimizations
+   - Documentation fixes
 
 ## 📜 License
 MIT © [OSCZ]
