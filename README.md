@@ -22,7 +22,9 @@ Each project has:
 
 ## 📈 Progress
 **Completed**: 1/100  
-![Progress](https://progress-bar.dev/1/?width=400&title=Progress)
+<img src="https://geps.dev/progress/1" alt="Progress" width="400">
+![Progress](https://geps.dev/progress/1?title=Progress)
+
 
 ## 🛠️ Global Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
