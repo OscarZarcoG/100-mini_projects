@@ -2,21 +2,21 @@
 
 A simple mini-project that calculates a person's age based on their birth date, implemented in both JavaScript and TypeScript for comparison.
 
+![Demo Screenshot](./demo.png)
 
 ## 📁 Project Structure
 1-Calculate_age/
-├── js/                   
-│   ├── index.html
-│   └── init.js
-├── ts/                   
-│   ├── index.html
-│   ├── dist/
-│   │   └── main.js
-│   │   └── main.js.map
-│   ├── src/
-│   │   └── main.ts
-│   ├── style.css
-│   └── main.ts
+├── js/
+│ ├── index.html
+│ └── init.js
+├── ts/
+│ ├── index.html
+│ ├── dist/
+│ │ ├── main.js
+│ │ └── main.js.map
+│ └── src/
+│ └── main.ts
+├── style.css
 └── README.md
 
 
